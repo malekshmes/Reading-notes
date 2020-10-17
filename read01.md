@@ -58,7 +58,7 @@ The expression that follows the media type which is like (all, screen, print, tv
 - not 
 - only
 
-![media operator](./img/media.png)
+![media operator](./img/media.PNG)
 
 ## What is mobile first?
 It's a popular technique while using media queries. The styles used is targeted at smaller viewports as the default styles for a website.
