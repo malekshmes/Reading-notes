@@ -109,4 +109,3 @@ It's the sister of `float` property, and what it does is letting elements to wor
 - None (the default)
 #### And the fifth is 
 - Inherit 
-
